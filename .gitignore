@@ -1,0 +1,4 @@
+.idea
+/data/partitioned_data/
+/data/RawData/
+*.csv
